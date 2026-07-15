@@ -31,7 +31,7 @@ A responsive multi-step onboarding wizard built with **React**, **React Hook For
 - CSS3
 
 ## Live Demo
-
+https://onboarding-wizard-7.netlify.app/
 
 ## Screenshots
 ### Desktop View
